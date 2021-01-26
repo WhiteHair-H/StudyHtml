@@ -18,7 +18,8 @@ HTML 기본 학습
 - HTML5의 차이점
   - UL2
   
->>> 인용문 : 너 자신을 알라
+> 인용문 : 너 자신을 알라
+>> 인용문 : You can do it
 
 -작성자 *white hair*
   
