@@ -71,7 +71,7 @@ for num in num_list:
 
 <img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/console_img.png" width="400" height="300px" title="콘솔 이미지" alt="실행결과"/>
 
-![콘솔 이미지](https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492__340.jpg "냥냥")
+
 
 
 ## Javascript
