@@ -57,10 +57,10 @@ for num in num_list:
 - [naver](https://naver.com)
 ---------------------------
 
-![콘솔 이미지](https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/console_img.png "실행결과")
+![콘솔 이미지](https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/console_img.png "절대경로")
 
 
-![콘솔 이미지](ref_images/console_img.png "실행결과")
+![콘솔 이미지](ref_images/console_img.png "상대경로"){: width="100" height="100"}
 
 
 ## Javascript
