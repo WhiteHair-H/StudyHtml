@@ -59,8 +59,11 @@ for num in num_list:
 
 ![콘솔 이미지](https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/console_img.png "절대경로")
 
-
+```
 ![콘솔 이미지](ref_images/console_img.png "상대경로"){: width="100" height="100"}
+```
+
+<img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/console_img.png" width="400" height="300px" title="콘솔 이미지" alt="실행결과"/>
 
 
 ## Javascript
