@@ -50,6 +50,9 @@ for num in num_list:
   print(num)
 
 ```
+- [ ] 학습하기
+- [x] 복습하기
+
 
 참조링크
 -------
