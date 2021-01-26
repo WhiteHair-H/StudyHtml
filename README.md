@@ -20,7 +20,7 @@ HTML 기본 학습
 
 -작성자 *white hair*
   
-  **HTML의 변형**
+  _~~**HTML의 변형**~~_
 
   *HTML의 변형*
 
