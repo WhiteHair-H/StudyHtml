@@ -60,6 +60,9 @@ for num in num_list:
 ![콘솔 이미지](https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/console_img.png "실행결과")
 
 
+![콘솔 이미지](ref_images/console_img.png "실행결과")
+
+
 ## Javascript
 javascript 기본 학습
 
