@@ -41,6 +41,16 @@ namespace HellowrldApp{
     public static void Main()}}
 ```
 
+```python
+
+num_list = ['one', 'two', 'three']
+
+for num in num_list:
+
+  print(num)
+
+```
+
 ---------------------------
 
 ## Javascript
