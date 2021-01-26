@@ -57,7 +57,7 @@ for num in num_list:
 - [naver](https://naver.com)
 ---------------------------
 
-![콘솔 이미지](https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/console_img.png)
+![콘솔 이미지](https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/console_img.png "실행결과")
 
 
 ## Javascript
