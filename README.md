@@ -59,8 +59,8 @@ for num in num_list:
 
 참조링크
 -------
-- [microsoft](https://www.microsoft.com/ko-kr)
-- [naver](https://naver.com)
+- [microsoft](https://www.microsoft.com/ko-kr "ms다 임마")
+- [naver](https://naver.com "네이버다 임마")
 ---------------------------
 
 ![콘솔 이미지](https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/console_img.png "절대경로")
