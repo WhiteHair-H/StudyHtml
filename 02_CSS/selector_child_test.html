@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <style>
+        #div>h2 {
+            color: red;
+        }
+
+        #section h2 {
+            color: orange;
+        }
+
+        h2:hover {
+            background: black;
+        }
+
+        h2:active {
+            color: red;
+        }
+
+        input:focus {
+            background: sandybrown;
+        }
+
+        input:enabled {
+            background-color: seagreen;
+        }
+
+        input:disabled {
+            background-color: slategrey;
+        }
+    </style>
+
+
+
+</head>
+
+<body>
+    <div id="header">
+        <h2 class="title">Lorem ipsum</h2>
+        <div id="nav">
+            <h2>Navigation</h2>
+        </div>
+        <h3>subTitle</h3>
+    </div>
+    <div id="section">
+        <h2 class="title">Lorem ipsum</h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae illum numquam blanditiis atque ut est veniam
+            error? Repellat, nesciunt dolor quaerat quasi exercitationem velit distinctio molestiae fugiat modi? Quam,
+            provident?</p>
+    </div>
+    <div>
+        <form>
+            <label for="">이름</label>
+            <input name="user_id" type="text" value="dana"><br>
+            <label for="">암호</label>
+            <input name="password" type="password" value="1234" disabled><br>
+        </form>
+    </div>
+</body>
+
+</html>
