@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+        * {
+        margin: 0px;
+        padding: 0px;
+    }
+        body {
+            width: 800px;
+            margin: 10px auto;
+        }
+
+        #Header {
+            background: rgb(100, 197, 100);
+            
+        }
+
+        #Section {
+            overflow: hidden;
+        }
+
+        #Aside {
+            float: left;
+            width: 200px;
+            background: rgb(163, 87, 87);
+        }
+
+        #Contents {
+            float: right;
+            width: 500px;
+            height: auto;
+            background: rgb(67, 67, 140);
+            text-align: center;
+        }
+
+        #Footer {
+            background: rgb(119, 51, 119); 
+        }
+
+        .ellipsis{
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="Header" class="ellipsis">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi recusandae commodi voluptatibus
+        incidunt aperiam omnis necessitatibus officia provident quam ipsam consequatur, quasi reiciendis doloribus
+        fugiat sapiente impedit numquam nihil. Nam.</div>
+    <div id="Section" class="ellipsis">
+        <div id="Aside" class="ellipsis">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia cupiditate eaque voluptas
+            accusamus porro eveniet obcaecati non tempora, dignissimos eius quam praesentium nam illo totam ipsa
+            commodi, architecto autem aperiam.</div>
+        <div id="Contents" class="ellipsis">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia cupiditate eaque voluptas
+            accusamus porro eveniet obcaecati non tempora, dignissimos eius quam praesentium nam illo totam ipsa
+            commodi, architecto autem aperiam.</div>
+    </div>
+    <div id="Footer" >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur eveniet obcaecati delectus eos
+        impedit? Ad numquam deserunt eaque cum sed repellat, molestias, hic amet natus tempore eum, dolores voluptates
+        aliquam?</div>
+</body>
+
+</html>
