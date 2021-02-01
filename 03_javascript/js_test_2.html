@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>자바 스크립트 테스트</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script>
+        // var pi = 3.1415956;
+        // var po = 10;
+
+
+        // alert("원의 면적 " + (pi * pi * po));
+
+        // if (35 < 108) {
+        //     console.log("맞았어")
+        // }
+        // else { console.log("틀렸어") };
+
+        var date = new Date();
+        var year = date.getFullYear();
+        var month = date.getMonth() + 1;
+        var day = date.getDay();
+        var hours = date.getHours();
+        var minutes = date.getMinutes();
+        var seconds = date.getSeconds();
+
+        // console.log(year +" - "+ month+" - " + day);
+
+        // if (hours < 12) {
+        //     console.log("오전");
+
+        // }
+        // else {
+        //     console.log("오후");
+        // }
+            hours = 9;
+        if (hours < 5) {
+        document.write('잠을 자렴....');
+    } else {
+        if (hours < 7) {
+            document.write('준비');
+        } else {
+            if (hours < 9) {
+                document.write('출근');
+            } else {
+                if (hours < 12) {
+                    document.write('빈둥빈둥');
+                } else {
+                    if (hours < 1) {
+                        document.write('식사');
+                    } else {
+                        // 여러 가지 업무를 수행합니다.
+                    }
+                }
+            }
+        }
+    }
+
+
+    // 배열 array
+    var array = [1,2,3,4,5,6,7,8,9,10];
+    console.log(array);
+
+    // 배열 요소 접근
+    console.log(array[0]);
+    console.log(array[1]);
+    console.log(array[3]);
+    console.log(array[10]);
+
+    // 반복문 while
+    var i = 0;
+    
+    console.log("반복문 while")
+    while (i < array.length) {
+        console.log(i + '번째 출력: ' + array[i]);
+
+        i++;
+    }
+
+
+    // 반복문 for
+    console.log("반복문 For")
+
+    for (let index = 0; index < array.length; index++) {
+        console.log(array[index]);
+        
+    }
+
+    
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
