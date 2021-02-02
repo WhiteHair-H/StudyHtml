@@ -19,10 +19,8 @@
 <img src = "https://pbs.twimg.com/profile_images/1278357302601347072/BGZIBPH9_400x400.jpg" width = "80" height = "80"/>
 
 
-
-
-### HTML기본학습
-[HTML소스](https://github.com/WhiteHair-H/StudyHtml/blob/main/01_HTML/index.html)
+### HTML5 기본 학습 자료
+- [HTML소스](https://github.com/WhiteHair-H/StudyHtml/blob/main/01_HTML/index.html)
 
 --------------------------
 
