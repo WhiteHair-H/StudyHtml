@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script src='https://code.jquery.com/jquery-3.5.1.min.js'></script>
+
+    <script>
+        $(document).ready(function () {
+
+            $('h1:nth-child(1)').text('<a href ="#">text</a>')
+            $('h1:nth-child(2)').html('<a href ="#">text</a>')
+
+            $('#box').css({
+                width : 100,
+                height : 100,
+                background : 'orange'
+            }).on('click', function () {
+                $(this).css('background', 'red');
+            }).on('mouseenter', function () {
+                $(this).css('background', 'blue');
+            }).on('mouseleave', function () {
+                $(this).css('background', 'orange');
+            });
+        });
+
+
+    </script>
+
+
+</head>
+
+<body>
+    <h1>Header - 0</h1>
+    <h1>Header - 1</h1>
+    <h1>Header - 2</h1>
+    <br>
+    <div id="box"></div>
+
+</body>
+
+</html>
