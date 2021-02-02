@@ -1,17 +1,17 @@
-# HTML Study Repository
+# 🚩HTML Study Repository
 
 ## 🏳Contents
 - HTML5
 - CSS3
 - JAVASCRIPT
 
-## 기간
+## ⏰기간
 - [2020-01-27] ~ [2020-02-03]
 
 --------------------------
 
 ## HTML5 기본 학습
-### Contents
+### 🏳Contents
 - HTML5 introduction
 - What is Web?
 - Webpage 기본 구조
@@ -19,10 +19,10 @@
 - HTML5 입력 양식 태그와 구조화 태그
 
 
-## HTML5 기본 학습 자료
+## ⌨HTML5 기본 학습 자료
 - [HTML소스](https://github.com/WhiteHair-H/StudyHtml/blob/main/01_HTML/index.html)
 
-### 예제 코드
+### 🔑예제 코드
 ```
 <body>
     <div>div태그 - 블록형식</div>
@@ -38,18 +38,18 @@
 --------------------------
 
 ## CSS3 기본 학습
-### Contents
+### 🏳Contents
 - CSS3 기초
 - CSS3 속성
 - Composition and functions of various layouts
 
 
 
-## CSS3 기본 학습 자료
+## ⌨CSS3 기본 학습 자료
 - [CSS소스](https://github.com/WhiteHair-H/StudyHtml/tree/main/02_CSS)
 
 
-### 예제 코드
+### 🔑예제 코드
 ```
 <style>
         body {
@@ -73,15 +73,15 @@
 ---------------------------
 
 ## Responsive Web 기본 학습
-### Contents
+### 🏳Contents
 - Responsive Web 소개
 - Responsive Web 설정
 - Responsive Web 패턴
 
-## Responsive Web 기본 학습 자료
+## ⌨Responsive Web 기본 학습 자료
 - [Responsive Web](https://github.com/WhiteHair-H/StudyHtml/tree/main/02_CSS)
 
-### 예제 코드
+### 🔑예제 코드
 ```
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
@@ -90,16 +90,16 @@
 ---------------------------
 
 ## Javascript 기본 학습
-### Contents
+### 🏳Contents
 - Javascript 기본 문법
 - 문서 객체 모델
 - JQuery 라이브러리
 
-## Javascript 기본 학습 자료
+## ⌨Javascript 기본 학습 자료
 - [Javascript](https://github.com/WhiteHair-H/StudyHtml/tree/main/03_javascript)
 
 
-### 예제 코드
+### 🔑예제 코드
 ```
       <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
     <script>
@@ -124,7 +124,7 @@
 ### 전체 통합 프로젝트
 - 홈페이지 제작
 
-## Project 기본 학습 자료
+## ⌨Project 기본 학습 자료
 - [Project](https://github.com/WhiteHair-H/StudyHtml/commit/17a5896c30be2415a40f209e526a6b9c5b766925)
 
 ## 사용 프로그램
