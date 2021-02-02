@@ -14,7 +14,8 @@
 - HTML5 기본 태그
 - HTML5 입력 양식 태그와 구조화 태그
 
-### 사용했던 프로그램 - visual studio code
+### 사용했던 프로그램
+- visual studio code
 <img src = "https://pbs.twimg.com/profile_images/1278357302601347072/BGZIBPH9_400x400.jpg" width = "80" height = "80"/>
 
 
@@ -28,7 +29,8 @@
 - CSS3 속성
 - Composition and functions of various layouts
 
-### 사용했던 프로그램 - visual studio code
+### 사용했던 프로그램
+- visual studio code
 <img src = "https://pbs.twimg.com/profile_images/1278357302601347072/BGZIBPH9_400x400.jpg" width = "80" height = "80"/>
 
 
