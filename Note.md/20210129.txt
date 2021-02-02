@@ -1,0 +1,5 @@
+margin
+top -> right -> bottom -> left
+
+코드 작성후 바로 실해시켜주는 단축키
+ctrl + F5
