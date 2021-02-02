@@ -1,5 +1,8 @@
-# HTML 학습 리포지토리
-HTML5, CSS3, JS 학습 리포지토리
+# HTML Study Repository
+## Contents
+- HTML5
+- CSS3
+- JAVASCRIPT
 
 --------------------------
 
