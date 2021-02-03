@@ -143,8 +143,9 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](  "https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png"
-)  |  ![]("https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png")
+![](  )  |  ![]()
+
+<img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png" width="200"/> <img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png" width="300"/>
 
 
 ---------------------------
