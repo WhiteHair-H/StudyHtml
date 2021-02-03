@@ -134,13 +134,17 @@
 
 #### 반응형 웹 그리드 레이아웃 웹 페이지 실습
 <p align="center">
-  <img src = "https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png" />
 </p>
 
 <p align="center">
-<img src = "https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png" />
+
 </p>
 
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](  "https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png"
+)  |  ![]("https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png")
 
 
 ---------------------------
