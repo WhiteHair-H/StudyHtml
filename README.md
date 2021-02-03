@@ -134,7 +134,7 @@
 
 #### 반응형 웹 그리드 레이아웃 웹 페이지 실습
 
-<img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png" height = "500" width="400"/> <img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png" height = "500" width="400"/>
+<img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png" height = "400" width="400"/> <img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png" height = "400" width="400"/>
 
 
 ---------------------------
