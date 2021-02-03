@@ -133,8 +133,8 @@
 
 
 #### 반응형 웹 그리드 레이아웃 웹 페이지 실습
-![결과1]("https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png")
-![결과2]("https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png")
+![결과1](img src= "https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png")
+![결과2](img src= "https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png")
 
 <img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png"/> <img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png" />
 
