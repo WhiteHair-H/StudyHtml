@@ -137,7 +137,7 @@
 
 ![결과2](/ref_images/result02.png "팝업 레이아웃")
 
-<img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png" width = "500" height = "500" /> <img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png" "500" height = "500" />
+<img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png" width = "500" height = "500" /> <img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png" width = "500" height = "500" />
 
 
 ---------------------------
