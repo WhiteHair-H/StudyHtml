@@ -133,8 +133,12 @@
 
 
 #### 반응형 웹 그리드 레이아웃 웹 페이지 실습
+
+- 전체레이아웃
 ![결과1](/ref_images/result01.png "전체 레이아웃")
 
+
+- 팝업 레이아웃
 ![결과2](/ref_images/result02.png "팝업 레이아웃")
 
 <img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result01.png" width = "500" height = "500" /> <img src="https://github.com/WhiteHair-H/StudyHtml/blob/main/ref_images/result02.png" width = "500" height = "500" />
