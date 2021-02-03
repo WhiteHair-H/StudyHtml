@@ -19,7 +19,7 @@
     height: 40px;
     left: 50%;
     margin-left: -100px;
-    background: url('../images/그림1.png');
+    background: url('../images/JINSMALL.png');
     background-repeat: no-repeat;
     text-indent: -9999px;
 }
@@ -65,10 +65,11 @@
     background: #e1dfdf;
 }
 
+
 /* 내비게이션 메뉴 */
 #main-navigation {
     height: 30px;
-    background: #faf7f7;
+    background: #a667be;
     border-top: 1px solid #cfcaca;
     box-shadow: 1px 3px 3px rgba(34, 25, 25, 0.4);
 

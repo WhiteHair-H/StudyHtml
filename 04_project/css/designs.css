@@ -1,7 +1,13 @@
         /* 페이퍼 스타일 */
         .paper-description {
             margin: 10px 0;
-        }
+            text-align: center;
+            color: rgb(128, 109, 47);
+            font-weight: bolder;
+            font-size: medium;
+            font-family: 'Courier New', Courier, monospace;
+            /* background-color:; */
+         }
 
         .paper {
             width: 190px;
