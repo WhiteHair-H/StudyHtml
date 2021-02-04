@@ -40,7 +40,7 @@
                 $('#random-image').attr({
                     src: function () {
                         var rnd_height = 500 + Math.floor(Math.random() * 100);
-                        return "https://placekitten.com/600/" + rnd_height;
+                        return "images/unnamed.png" + rnd_height;
                     }
                 });
                 // 라이트박스를 보이게 합니다.
@@ -398,7 +398,7 @@
         <div id="lightbox">
             <div class="user-information">
                 <a class="user-information-image" href="#">
-                    <img src="https://placekitten.com/70/70">
+                    <img  width="70px" height="70px" src="images/unnamed.png">
                 </a>
                 <div class="user-information-text">
                     <h3>User</h3>
@@ -406,7 +406,7 @@
                 </div>
             </div>
             <hr class="lightbox-splitter">
-            <img id="random-image" src="https://placekitten.com/600/755">
+            <img id="random-image" width="600px" height="755px" src="images/unnamed.png">
         </div>
     </div>
 

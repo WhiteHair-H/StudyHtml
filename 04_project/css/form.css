@@ -69,15 +69,17 @@
 /* 내비게이션 메뉴 */
 #main-navigation {
     height: 30px;
-    background: #a667be;
+    background: #fdfdfd;
     border-top: 1px solid #cfcaca;
     box-shadow: 1px 3px 3px rgba(34, 25, 25, 0.4);
+   
 
 }
 
 #main-navigation>ul {
     overflow: hidden;
     text-align: center;
+    color: aqua;
 }
 
 #main-navigation>ul>li {
