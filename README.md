@@ -133,8 +133,8 @@
 
 
 #### 반응형 웹 그리드 레이아웃 웹 페이지 실습
-![결과1](/ref_images/result001.jpg "전체 레이아웃")
-![결과2](/ref_images/result002.jpg "팝업 레이아웃")
+![결과1](/ref_images/result001.png "전체 레이아웃")
+![결과2](/ref_images/result002.png "팝업 레이아웃")
 
 
 ---------------------------
