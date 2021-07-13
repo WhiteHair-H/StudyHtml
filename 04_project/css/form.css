@@ -72,9 +72,10 @@
     background: #fdfdfd;
     border-top: 1px solid #cfcaca;
     box-shadow: 1px 3px 3px rgba(34, 25, 25, 0.4);
-   
 
 }
+
+
 
 #main-navigation>ul {
     overflow: hidden;
@@ -92,9 +93,13 @@
 }
 
 #main-navigation>ul>li:hover {
-    background: #e1dfdf;
+    background: #afa381;
     border-radius: 2px;
 }
+
+
+
+
 
 .header-search-form {
     height: 26px;
