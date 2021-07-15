@@ -14,14 +14,58 @@
   <div class="main_div">
     <div class="ControlPage" style="text-align: center; ">Display</div>
     <div>
-        <form action="" style="background-position: right;">
-            <img src="images/plant.jpg" alt="plant" style="max-inline-size:-webkit-fill-available; background-position: left;">
-            <label class="toggle-control" >
-                <input type="checkbox" checked="checked" >
-                <span class="control"></span>
-            </label>
-        </form>
+      <form action="" style="padding-top: 5px;">
+        <div>
+          <img src="images/plant.jpg" alt="plant" height="340" style="padding-top: 30px; padding-left: 100px;" >
+          <div style="float: right; ">
+            <div class="mid">
+              <img src="images/온도.png" alt="" height="50px" style="margin-right: 30px;">
+              <p style="margin-right: 60px;">현재온도 : 22℃</p>
+              <p style="margin-left: 60px;">LED</p>
+              <label class="rocker rocker-small">
+                <input type="checkbox">
+                <span class="switch-left">ON</span>
+                <span class="switch-right">OFF</span>
+              </label>
+            </div>
+            <div class="mid">
+              <img src="images/습도.png" alt="" height="50px" style="margin-right: 30px;">
+              <p style="margin-right: 40px;">현재습도 : 60%</p>
+              <p style="margin-left: 60px;">Fan In</p>
+              <label class="rocker rocker-small">
+                <input type="checkbox">
+                <span class="switch-left">ON</span>
+                <span class="switch-right">OFF</span>
+              </label>
+            </div>
+            <div class="mid">
+              <img src="images/조도.png" alt="" height="50px" style="margin-right: 30px;">
+              <p style="margin-right: 30px;">현재조도 : 20lx</p>
+              <p style="margin-left: 60px;">Fan Out</p>
+              <label class="rocker rocker-small">
+                <input type="checkbox">
+                <span class="switch-left">ON</span>
+                <span class="switch-right">OFF</span>
+              </label>
+            </div>
+            <div class="mid">
+              <img src="images/토양습도.png" alt="" height="50px" style="margin-right: 30px;">
+              <p style="margin-right: 20px;">토양습도 : 20%</p>
+              <p style="margin-left: 30px;">Water Pump</p>
+              <label class="rocker rocker-small">
+                <input type="checkbox">
+                <span class="switch-left">ON</span>
+                <span class="switch-right">OFF</span>
+              </label>
+            </div>
+          </div>
+        </div>
+      </form>
+      <form action="">
+          <div class="ControlPage" style="text-align: center;">Setting</div>
+      </form>
     </div>
   </div>
+
 </body>
 </html>
